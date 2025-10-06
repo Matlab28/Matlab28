@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;">
   - Working at <a href="http://andersenlab.com">Andersen Lab</a> • <a href="https://medium.com/@matlabb">Medium</a>
-</p>
+</p> 
 
 <h3 align="center">Languages &amp; Tools</h3>
 
