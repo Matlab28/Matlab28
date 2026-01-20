@@ -3,6 +3,11 @@
 <p align="center" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;">
   Working at 
   <a href="http://andersenlab.com" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">Andersen Lab</a> • 
+  <a href="https://tif.edu.az/en/" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">Education Development Fund</a>
+</p>
+
+<p align="center" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;">
+  Writing Articles on 
   <a href="https://medium.com/@matlabb" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">Medium</a>
 </p>
 
