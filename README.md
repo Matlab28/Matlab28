@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages &amp; Tools</h3>
 
-<div align="center" style="max-width:900px;background-color:#f0f0f5;padding:24px;border-radius:12px;">
+<div align="center" style="max-width:900px;background-color:#B2BEB5;padding:24px;border-radius:12px;">
   <p align="center" style="line-height:1.6;">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
