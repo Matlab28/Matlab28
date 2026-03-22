@@ -39,10 +39,14 @@
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="44" style="margin:6px;vertical-align:middle"/></a>
   </p>
 </div>
 
-<!-- compact top-langs (bars) with a lighter dark background for better visibility -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matlab28&layout=compact&langs_count=8&bg_color=211e2e&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" alt="top-langs" />
 </p>
