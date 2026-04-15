@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;">
   Working at 
-  <a href="http://andersenlab.com" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">Andersen Lab</a> • 
+  <a href="https://www.epam.com" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">EPAM Systems</a> • 
   <a href="https://tif.edu.az/en/" style="font-size:16px;font-weight:600;margin-top:4px;margin-bottom:12px;color:inherit;">Education Development Fund</a>
 </p>
 
