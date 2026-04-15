@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nextjs,html,css,aws,gcp,firebase,docker,kubernetes,mysql,postgres,mongodb,redis,git,postman"
+    src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nextjs,html,css,aws,gcp,firebase,docker,kubernetes,mysql,postgres,mongodb,redis,git,postman,elasticsearch,tensorflow"
     alt="Languages and Tools"
   />
 </p>
