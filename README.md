@@ -43,8 +43,6 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matlab-abbaszada/" target="_blank">LinkedIn</a><br/>
-  <a href="https://medium.com/@matlabb" target="_blank">Medium</a><br/>
-  <a href="https://matlababbaszada.com/" target="_blank">Website</a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/matlab-abbaszada/)
+- [Medium](https://medium.com/@matlabb)
+- [Website](https://matlababbaszada.com/)
