@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.epam.com">EPAM Systems</a> •
-  <a href="https://tif.edu.az/en/">Education Development Fund</a> •
   <a href="https://medium.com/@matlabb">Medium</a>
 </p>
 
