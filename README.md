@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  Experienced Java Software Engineer and AI Engineer
+  Experienced Java Software & AI Engineer
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- Software Engineer & AI Engineer with strong focus on Java and Spring Boot
+- Software & AI Engineer with strong focus on Java and Spring Boot
 - Writing articles on Medium
 - Working with modern web and backend technologies
 
