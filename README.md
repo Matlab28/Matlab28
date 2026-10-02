@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matlab 👋</h1>
-<h3 align="center">Software Engineer | AI Engineer</h3>
+<h3 align="center">Software & AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.epam.com">EPAM Systems</a> •
